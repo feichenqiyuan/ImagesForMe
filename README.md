@@ -60,7 +60,7 @@ H~2~O is是液体。
 链接: [link](https://www.csdn.net/).
 
 图片: ![Alt](https://imgconvert.csdnimg.cn/aHR0cHM6Ly9hdmF0YXIuY3Nkbi5uZXQvNy83L0IvMV9yYWxmX2h4MTYzY29tLmpwZw)
-![Alt](https://github.com/feichenqiyuan/ImagesForMe/blob/main/pictures/timg.jpeg）
+![Alt](https://github.com/feichenqiyuan/ImagesForMe/blob/main/pictures/timg.jpeg)
 
 
 当然，我们为了让用户更加便捷，我们增加了图片拖拽功能。
